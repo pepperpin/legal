@@ -462,7 +462,5 @@ www.priv.gc.ca
 
 ### Contact Us
 
-For any questions or concerns regarding your privacy, you may contact us using the following details:
-
-Oleksandr Ivanov  
-https://www.pepperpin.com/#feedback-form
+For any questions or concerns regarding your privacy, you may contact us and leave additional details here:
+[Contact form](https://www.pepperpin.com/#feedback-form)
